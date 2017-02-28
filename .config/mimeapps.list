@@ -1,0 +1,15 @@
+[Added Associations]
+text/plain=mousepad.desktop;
+application/wps-office.docx=wps-office-wps.desktop;
+image/png=ristretto.desktop;
+application/wps-office.doc=wps-office-wps.desktop;
+application/x-shellscript=mousepad.desktop;
+image/jpeg=ristretto.desktop;gimp.desktop;
+application/pdf=evince.desktop;atril.desktop;gimp.desktop;
+application/octet-stream=mousepad.desktop;
+video/mp4=smplayer.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+video/x-matroska=smplayer.desktop;
+application/wps-office.wps=wps-office-wps.desktop;
+audio/mp4=mpv.desktop;
+text/markdown=mousepad.desktop;

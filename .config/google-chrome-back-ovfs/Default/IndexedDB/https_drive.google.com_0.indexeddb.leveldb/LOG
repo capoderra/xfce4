@@ -1,0 +1,24 @@
+2017/02/28-17:01:28.246 1200 Reusing MANIFEST /home/capoderra/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/02/28-17:01:28.247 1200 Recovering log #462
+2017/02/28-17:01:28.248 1200 Reusing old log /home/capoderra/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000462.log 
+2017/02/28-17:01:28.412 1529 Level-0 table #466: started
+2017/02/28-17:01:28.412 1529 Level-0 table #466: 595 bytes OK
+2017/02/28-17:01:28.413 1529 Delete type=0 #462
+2017/02/28-17:01:28.413 1529 Level-0 table #468: started
+2017/02/28-17:01:28.413 1529 Level-0 table #468: 0 bytes OK
+2017/02/28-17:01:28.414 1529 Delete type=0 #465
+2017/02/28-17:01:28.414 1529 Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x02\x01\x1f\x000\x003\x007\x006\x005\x006\x004\x001\x007\x006\x003\x009\x005\x009\x004\x006\x005\x004\x007\x004\x00_\x001\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 3139 : 1
+2017/02/28-17:01:28.414 1529 Compacting 2@0 + 1@1 files
+2017/02/28-17:01:28.540 1529 Generated table #469@0: 50 keys, 881253 bytes
+2017/02/28-17:01:28.540 1529 Compacted 2@0 + 1@1 files => 881253 bytes
+2017/02/28-17:01:28.541 1529 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/02/28-17:01:28.541 1529 Delete type=2 #466
+2017/02/28-17:01:28.541 1529 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x1f\x000\x003\x007\x006\x005\x006\x004\x001\x007\x006\x003\x009\x005\x009\x004\x006\x005\x004\x007\x004\x00_\x001\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 3139 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2017/02/28-17:01:30.612 1529 Level-0 table #471: started
+2017/02/28-17:01:30.667 1529 Level-0 table #471: 914692 bytes OK
+2017/02/28-17:01:30.679 1529 Delete type=2 #463
+2017/02/28-17:01:30.679 1529 Delete type=2 #461
+2017/02/28-17:01:30.679 1529 Delete type=0 #467
+2017/02/28-17:01:31.680 1529 Level-0 table #473: started
+2017/02/28-17:01:31.722 1529 Level-0 table #473: 847607 bytes OK
+2017/02/28-17:01:31.723 1529 Delete type=0 #470

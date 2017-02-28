@@ -1,0 +1,20 @@
+2017/02/28-09:25:29.030 12893 Reusing MANIFEST /home/capoderra/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/02/28-09:25:29.032 12893 Recovering log #704
+2017/02/28-09:25:29.032 12893 Reusing old log /home/capoderra/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000704.log 
+2017/02/28-09:26:38.713 26847 Level-0 table #708: started
+2017/02/28-09:26:39.072 26847 Level-0 table #708: 2321958 bytes OK
+2017/02/28-09:26:39.073 26847 Delete type=0 #704
+2017/02/28-09:37:22.504 26847 Level-0 table #710: started
+2017/02/28-09:37:22.652 26847 Level-0 table #710: 2321702 bytes OK
+2017/02/28-09:37:22.653 26847 Delete type=0 #707
+2017/02/28-09:37:22.664 26847 Compacting 4@0 + 2@1 files
+2017/02/28-09:37:23.162 26847 Generated table #711@0: 1 keys, 2321702 bytes
+2017/02/28-09:37:23.171 26847 Generated table #712@0: 3 keys, 369 bytes
+2017/02/28-09:37:23.171 26847 Compacted 4@0 + 2@1 files => 2322071 bytes
+2017/02/28-09:37:23.171 26847 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/02/28-09:37:23.171 26847 Delete type=2 #705
+2017/02/28-09:37:23.171 26847 Delete type=2 #700
+2017/02/28-09:37:23.171 26847 Delete type=2 #703
+2017/02/28-09:37:23.171 26847 Delete type=2 #701
+2017/02/28-09:37:23.171 26847 Delete type=2 #710
+2017/02/28-09:37:23.172 26847 Delete type=2 #708

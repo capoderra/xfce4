@@ -1,0 +1,13 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "The easiest way to combine PDF Files"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Merge PDF - Smallpdf.com"
+   },
+   "appShortName": {
+      "message": "Merge PDF"
+   }
+}

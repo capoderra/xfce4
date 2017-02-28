@@ -1,0 +1,85 @@
+html,
+body {
+    width: 270px;
+    background-color: white;
+    font-size: 13px;
+}
+
+a {
+    color: grey;
+}
+
+
+hr {
+    margin: 20px 0 10px 0;
+}
+#fontColorPicker,
+#BGColorPicker {
+    margin: 1;
+    padding: 1;
+    border: 0;
+    width: 120px;
+    height: 60px;
+    line-height: 54px;
+}
+
+#fontColorPicker {
+    border-right: 120px solid;
+}
+
+#BGColorPicker {
+    border-right: 120px solid;
+}
+
+.close-image {
+    display: block;
+    float: right;
+    position: relative;
+    top: 2px;
+    right: 2px;
+    height: 20px;
+}
+
+i {
+    color: green;
+}
+
+#labelClose:before {
+    content: "__MSG_labelClose__"
+}
+
+#labelMySelect:before {
+    content: "__MSG_labelOptionList__"
+}
+
+#labelFontColorPicker span {
+    display: none;
+}
+
+#labelFontColorPicker:after {
+    content: '__MSG_labelFontColorPicker__';
+}
+
+#labelBGColorPicker span {
+    display: none;
+}
+
+#labelBGColorPicker:after {
+    content: '__MSG_labelBGColorPicker__';
+}
+
+#deleteItem span {
+    display: none;
+}
+
+#deleteItem:after {
+    content: '__MSG_textDeleteItem__';
+}
+
+#saveItem span {
+    display: none;
+}
+
+#saveItem:after {
+    content: '__MSG_textSaveItem__';
+}

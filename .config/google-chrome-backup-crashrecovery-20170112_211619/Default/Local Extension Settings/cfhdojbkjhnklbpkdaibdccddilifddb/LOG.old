@@ -1,0 +1,49 @@
+2016/12/16-12:16:10.824 1213 Reusing MANIFEST /home/capoderra/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2016/12/16-12:16:10.824 1213 Recovering log #536
+2016/12/16-12:16:10.825 1213 Reusing old log /home/capoderra/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000536.log 
+2016/12/16-12:17:14.211 1658 Level-0 table #542: started
+2016/12/16-12:17:14.315 1658 Level-0 table #542: 2150370 bytes OK
+2016/12/16-12:17:14.316 1658 Delete type=0 #536
+2016/12/16-13:17:11.383 1658 Level-0 table #544: started
+2016/12/16-13:17:11.454 1658 Level-0 table #544: 2150273 bytes OK
+2016/12/16-13:17:11.455 1658 Delete type=0 #541
+2016/12/16-13:17:15.617 1658 Level-0 table #546: started
+2016/12/16-13:17:15.685 1658 Level-0 table #546: 2150276 bytes OK
+2016/12/16-13:17:15.686 1658 Delete type=0 #543
+2016/12/16-14:17:11.394 1658 Level-0 table #548: started
+2016/12/16-14:17:11.471 1658 Level-0 table #548: 2150032 bytes OK
+2016/12/16-14:17:11.472 1658 Delete type=0 #545
+2016/12/16-14:17:11.473 1658 Compacting 4@0 + 2@1 files
+2016/12/16-14:17:11.680 1658 Generated table #549@0: 1 keys, 2150032 bytes
+2016/12/16-14:17:11.682 1658 Generated table #550@0: 3 keys, 371 bytes
+2016/12/16-14:17:11.682 1658 Compacted 4@0 + 2@1 files => 2150403 bytes
+2016/12/16-14:17:11.682 1658 compacted to: files[ 0 2 1 0 0 0 0 ]
+2016/12/16-14:17:11.682 1658 Delete type=2 #538
+2016/12/16-14:17:11.683 1658 Delete type=2 #539
+2016/12/16-14:17:11.683 1658 Delete type=2 #548
+2016/12/16-14:17:11.683 1658 Delete type=2 #546
+2016/12/16-14:17:11.684 1658 Delete type=2 #544
+2016/12/16-14:17:11.684 1658 Delete type=2 #542
+2016/12/16-14:17:15.690 1658 Level-0 table #552: started
+2016/12/16-14:17:15.758 1658 Level-0 table #552: 2150276 bytes OK
+2016/12/16-14:17:15.759 1658 Delete type=0 #547
+2016/12/16-14:21:41.107 1658 Level-0 table #554: started
+2016/12/16-14:21:41.262 1658 Level-0 table #554: 2150032 bytes OK
+2016/12/16-14:21:41.263 1658 Delete type=0 #551
+2016/12/16-23:28:38.589 1658 Level-0 table #556: started
+2016/12/16-23:28:38.657 1658 Level-0 table #556: 2150341 bytes OK
+2016/12/16-23:28:38.658 1658 Delete type=0 #553
+2016/12/16-23:32:21.433 1658 Level-0 table #558: started
+2016/12/16-23:32:21.541 1658 Level-0 table #558: 2150069 bytes OK
+2016/12/16-23:32:21.542 1658 Delete type=0 #555
+2016/12/16-23:32:21.544 1658 Compacting 4@0 + 2@1 files
+2016/12/16-23:32:21.889 1658 Generated table #559@0: 1 keys, 2150069 bytes
+2016/12/16-23:32:21.894 1658 Generated table #560@0: 3 keys, 371 bytes
+2016/12/16-23:32:21.894 1658 Compacted 4@0 + 2@1 files => 2150440 bytes
+2016/12/16-23:32:21.895 1658 compacted to: files[ 0 2 1 0 0 0 0 ]
+2016/12/16-23:32:21.895 1658 Delete type=2 #558
+2016/12/16-23:32:21.895 1658 Delete type=2 #556
+2016/12/16-23:32:21.896 1658 Delete type=2 #554
+2016/12/16-23:32:21.897 1658 Delete type=2 #552
+2016/12/16-23:32:21.898 1658 Delete type=2 #550
+2016/12/16-23:32:21.898 1658 Delete type=2 #549

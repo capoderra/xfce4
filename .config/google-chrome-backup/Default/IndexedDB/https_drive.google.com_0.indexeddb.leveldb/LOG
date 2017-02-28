@@ -1,0 +1,42 @@
+2017/02/28-11:49:02.281 1309 Reusing MANIFEST /home/capoderra/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/02/28-11:49:02.281 1309 Recovering log #444
+2017/02/28-11:49:02.282 1309 Reusing old log /home/capoderra/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000444.log 
+2017/02/28-11:49:03.163 1309 Current memtable full; waiting...
+2017/02/28-11:49:03.179 2115 Level-0 table #449: started
+2017/02/28-11:49:03.180 2115 Level-0 table #449: 599 bytes OK
+2017/02/28-11:49:03.180 2115 Delete type=0 #444
+2017/02/28-11:49:03.182 2115 Level-0 table #451: started
+2017/02/28-11:49:03.182 2115 Level-0 table #451: 0 bytes OK
+2017/02/28-11:49:03.182 2115 Delete type=0 #448
+2017/02/28-11:49:03.182 2115 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x00\x00\x05' @ 3052 : 1
+2017/02/28-11:49:03.183 2115 Compacting 1@0 + 1@1 files
+2017/02/28-11:49:03.329 2115 Generated table #452@0: 49 keys, 857913 bytes
+2017/02/28-11:49:03.330 2115 Compacted 1@0 + 1@1 files => 857913 bytes
+2017/02/28-11:49:03.330 2115 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/02/28-11:49:03.331 2115 Delete type=2 #449
+2017/02/28-11:49:03.331 2115 Manual compaction at level-0 from '\x00\x1d\x00\x00\x05' @ 3052 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2017/02/28-11:49:13.914 2115 Level-0 table #454: started
+2017/02/28-11:49:13.971 2115 Level-0 table #454: 880618 bytes OK
+2017/02/28-11:49:13.972 2115 Delete type=2 #446
+2017/02/28-11:49:13.972 2115 Delete type=0 #450
+2017/02/28-11:49:15.482 2115 Level-0 table #456: started
+2017/02/28-11:49:15.557 2115 Level-0 table #456: 881215 bytes OK
+2017/02/28-11:49:15.575 2115 Delete type=0 #453
+2017/02/28-11:49:54.025 2115 Level-0 table #458: started
+2017/02/28-11:49:54.067 2115 Level-0 table #458: 845480 bytes OK
+2017/02/28-11:49:54.069 2115 Delete type=0 #455
+2017/02/28-11:51:10.074 2115 Level-0 table #460: started
+2017/02/28-11:51:10.113 2115 Level-0 table #460: 845418 bytes OK
+2017/02/28-11:51:10.114 2115 Delete type=0 #457
+2017/02/28-11:51:10.115 2115 Compacting 4@0 + 1@1 files
+2017/02/28-11:51:10.244 2115 Generated table #461@0: 42 keys, 881240 bytes
+2017/02/28-11:51:10.244 2115 Compacted 4@0 + 1@1 files => 881240 bytes
+2017/02/28-11:51:10.244 2115 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/02/28-11:51:10.244 2115 Delete type=2 #460
+2017/02/28-11:51:10.245 2115 Delete type=2 #458
+2017/02/28-11:51:10.245 2115 Delete type=2 #456
+2017/02/28-11:51:10.245 2115 Delete type=2 #454
+2017/02/28-11:51:10.245 2115 Delete type=2 #452
+2017/02/28-11:53:40.928 2115 Level-0 table #463: started
+2017/02/28-11:53:40.968 2115 Level-0 table #463: 845417 bytes OK
+2017/02/28-11:53:40.969 2115 Delete type=0 #459

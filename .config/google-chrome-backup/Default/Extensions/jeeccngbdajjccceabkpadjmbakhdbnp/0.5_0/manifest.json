@@ -1,0 +1,17 @@
+{
+   "content_scripts": [ {
+      "js": [ "/content.js" ],
+      "matches": [ "*://*.netflix.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Netflix won't ask if you're still there while this is installed. Also removes the next episode countdown.",
+   "icons": {
+      "128": "bird128.png",
+      "48": "bird48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgrjE0hZKwTNd7NsuqNnzeJvvP4Px3tWmd/fDCNfS9ZbXPhosJxPqLP8V0Y8gGUThlzsAds4YrnLRYzQz3fPUum1OcePstDBHCmmqdlsk7Ny0x6eLrR6EoNzLl+C2+ZWjQrLf2dqTvsKddRkWSlK175S5T/84+2/4rCiGG0Mg/4x1s2zD9lCNedBq2mj6kj0c5lhozSbyFal2xRMsTiPzQp6JYCzE4ppwhb1WL80XsV2XnZQCf3itJ+iAKmgMhKMNxKDznS/ICla1ZHEMaVIKpDDTzBL01TEPzDUTOeNPUHm5ahkWEC7nuHjibSx0YDQpThn1r9AKxiktJ9k703vK7QIDAQAB",
+   "manifest_version": 2,
+   "name": "Flix Assist",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5"
+}

@@ -1,0 +1,46 @@
+2017/01/10-13:49:45.274 1849 Reusing MANIFEST /home/capoderra/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2017/01/10-13:49:45.274 1849 Recovering log #597
+2017/01/10-13:49:45.275 1849 Reusing old log /home/capoderra/.config/google-chrome/Default/Session Storage/000597.log 
+2017/01/11-10:59:57.274 2572 Level-0 table #602: started
+2017/01/11-10:59:57.279 2572 Level-0 table #602: 165364 bytes OK
+2017/01/11-10:59:57.280 2572 Delete type=0 #597
+2017/01/11-11:02:15.201 2572 Level-0 table #604: started
+2017/01/11-11:02:15.207 2572 Level-0 table #604: 141570 bytes OK
+2017/01/11-11:02:15.208 2572 Delete type=0 #601
+2017/01/11-11:03:16.590 2572 Level-0 table #606: started
+2017/01/11-11:03:16.596 2572 Level-0 table #606: 108743 bytes OK
+2017/01/11-11:03:16.597 2572 Delete type=0 #603
+2017/01/11-11:13:33.431 2572 Level-0 table #608: started
+2017/01/11-11:13:33.434 2572 Level-0 table #608: 97760 bytes OK
+2017/01/11-11:13:33.435 2572 Delete type=0 #605
+2017/01/11-11:13:33.435 2572 Compacting 4@0 + 1@1 files
+2017/01/11-11:13:33.535 2572 Generated table #609@0: 14428 keys, 1890206 bytes
+2017/01/11-11:13:33.535 2572 Compacted 4@0 + 1@1 files => 1890206 bytes
+2017/01/11-11:13:33.535 2572 compacted to: files[ 0 1 1 0 0 0 0 ]
+2017/01/11-11:13:33.535 2572 Delete type=2 #599
+2017/01/11-11:13:33.535 2572 Delete type=2 #608
+2017/01/11-11:13:33.535 2572 Delete type=2 #606
+2017/01/11-11:13:33.536 2572 Delete type=2 #604
+2017/01/11-11:13:33.536 2572 Delete type=2 #602
+2017/01/11-11:14:37.939 2572 Level-0 table #611: started
+2017/01/11-11:14:37.941 2572 Level-0 table #611: 41515 bytes OK
+2017/01/11-11:14:37.941 2572 Delete type=0 #607
+2017/01/11-11:15:38.707 2572 Level-0 table #613: started
+2017/01/11-11:15:38.709 2572 Level-0 table #613: 46974 bytes OK
+2017/01/11-11:15:38.710 2572 Delete type=0 #610
+2017/01/11-12:34:38.862 2572 Level-0 table #615: started
+2017/01/11-12:34:38.865 2572 Level-0 table #615: 98470 bytes OK
+2017/01/11-12:34:38.866 2572 Delete type=0 #612
+2017/01/11-14:10:34.453 2572 Level-0 table #617: started
+2017/01/11-14:10:34.459 2572 Level-0 table #617: 105707 bytes OK
+2017/01/11-14:10:34.459 2572 Delete type=0 #614
+2017/01/11-14:10:34.460 2572 Compacting 4@0 + 1@1 files
+2017/01/11-14:10:34.552 2572 Generated table #618@0: 12755 keys, 2109339 bytes
+2017/01/11-14:10:34.555 2572 Generated table #619@0: 1872 keys, 72001 bytes
+2017/01/11-14:10:34.555 2572 Compacted 4@0 + 1@1 files => 2181340 bytes
+2017/01/11-14:10:34.555 2572 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/01/11-14:10:34.556 2572 Delete type=2 #617
+2017/01/11-14:10:34.556 2572 Delete type=2 #615
+2017/01/11-14:10:34.556 2572 Delete type=2 #613
+2017/01/11-14:10:34.556 2572 Delete type=2 #611
+2017/01/11-14:10:34.556 2572 Delete type=2 #609
